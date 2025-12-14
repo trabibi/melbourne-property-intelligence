@@ -1,0 +1,126 @@
+# **Melbourne Property Intelligence**
+
+### Rental Yield, Vacancy, and Interest Rate Sensitivity Analysis
+
+---
+
+## 1. Background & Context
+
+Residential property investment decisions in Melbourne are increasingly influenced by shifting macroeconomic conditions, particularly rising interest rates and changing rental market dynamics. While median rents and property prices are widely reported, these metrics in isolation provide limited insight into the relative attractiveness and risk profile of different suburbs.
+
+Investors and analysts require a more integrated view that captures both **income return** and **demand stability**, and how these factors respond to changes in the interest rate environment. Understanding these dynamics at a suburb level is critical for assessing risk-adjusted investment opportunities across Melbourne.
+
+---
+
+## 2. Problem Statement
+
+This project aims to analyse how **rental yields** and **vacancy conditions** vary across Melbourne suburbs, and to assess their **sensitivity to changes in interest rates**. The objective is to provide a comparative, data-driven view of income potential and risk across suburbs under different macroeconomic scenarios.
+
+---
+
+## 3. Target Users / Stakeholders
+
+- Residential property investors
+- Real estate analysts and researchers
+- Advisory and asset management professionals
+- Students and practitioners interested in applied property analytics
+
+---
+
+## 4. Key Analytical Questions
+
+- How do gross rental yields differ across Melbourne suburbs?
+- What is the relationship between rental yield and vacancy conditions at a suburb level?
+- How sensitive are rental yields to changes in interest rates?
+- Which suburbs exhibit higher yield stability versus higher rate sensitivity?
+
+---
+
+## 5. Key Metrics & Definitions
+
+- **Gross Rental Yield (%)**Gross Yield=Median Property Price52×Median Weekly Rent
+    
+    Annual rental income as a percentage of property value.
+    
+    Gross Yield=52×Median Weekly RentMedian Property Price\text{Gross Yield} = \frac{52 \times \text{Median Weekly Rent}}{\text{Median Property Price}}
+    
+- **Vacancy Rate (or Vacancy Proxy)**
+    
+    A measure of rental demand and income stability, approximated using available public data or listing-based proxies where direct vacancy rates are unavailable.
+    
+- **Interest Rate Level / Change**
+    
+    Reserve Bank of Australia (RBA) cash rate and derived rate change measures (e.g. quarterly or lagged changes).
+    
+
+These metrics are selected to jointly capture the **return–risk trade-off** faced by property investors.
+
+---
+
+## 6. Data Sources & Constraints
+
+### Data Sources (indicative)
+
+- Median rent and property price data from public datasets (e.g. ABS, Victorian Government open data)
+- Vacancy information or demand proxies derived from publicly available housing market data
+- Interest rate data from the Reserve Bank of Australia
+
+### Constraints & Assumptions
+
+- Analysis focuses on **gross yields** due to the absence of detailed expense data required for net yield estimation.
+- Vacancy rates may be approximated using proxies where direct suburb-level vacancy data is unavailable.
+- Results reflect historical relationships and do not constitute investment advice.
+
+---
+
+## 7. Analytical Approach (High-Level)
+
+1. **Data Cleaning & Integration**
+    
+    Align rental, price, vacancy, and interest rate data across suburbs and time periods.
+    
+2. **Exploratory Analysis**
+    
+    Examine distributions and relationships between yields, vacancy conditions, and location characteristics.
+    
+3. **Modelling**
+    - Baseline regression models to assess interpretable relationships
+    - Tree-based models to capture non-linear effects and interactions
+4. **Interest Rate Sensitivity Analysis**
+    
+    Simulate changes in interest rates (e.g. +25bps, +50bps) to assess differential suburb-level yield responses.
+    
+
+---
+
+## 8. Expected Outputs
+
+- An interactive **Streamlit dashboard** enabling suburb-level exploration
+- Visualisations of yield, vacancy, and interest rate sensitivity
+- A concise set of **business-oriented insights** highlighting risk–return trade-offs across Melbourne suburbs
+- Clear documentation of assumptions, limitations, and potential extensions
+
+---
+
+## 9. Risks & Limitations
+
+- Data availability and quality may vary across suburbs
+- Vacancy proxies may not fully capture short-term rental dynamics
+- Interest rate sensitivity analysis assumes other factors remain constant
+
+These limitations are explicitly acknowledged to ensure transparency and appropriate interpretation.
+
+---
+
+## 10. Potential Extensions
+
+- Incorporation of capital growth metrics
+- Segmentation by property type (houses vs units)
+- Scenario analysis under alternative macroeconomic assumptions
+- Integration of demographic or infrastructure variables
+
+---
+
+### **Project Status**
+
+In progress — designed as an end-to-end applied analytics project combining real estate domain knowledge with data science techniques.
