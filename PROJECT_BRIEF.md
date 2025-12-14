@@ -12,6 +12,16 @@ Investors and analysts require a more integrated view that captures both income 
 
 ---
 
+## 1.1. Real World Relevance & Industry Context 
+
+This project is motivated by prior experience in real estate investment management, where quarterly reporting plays a central role in communicating market conditions across assets classes and regions. While such reports provide valuable high-level summaries, rental trends, pricing movements, vacancy conditions, and macroeconomic factors are often presented in isolation. 
+
+In practice, investment decisions are made at a much finer level of granularity, where understanding how income returns, demand stability, and interest rate conditions interact across specific suburbs is critical. This project seeks to bridge that gap by integrating commonly reported metrics into a single, suburb-level analytical framework. 
+
+By extending traditional descriptive reporting with comparative analysis and interest rate sensitivity scenarios, the project demonstrates how routinely published market data can be transformed into more actional insights for investment analysis and risk assessment. 
+
+---
+
 ## 2. Problem Statement
 
 This project aims to analyse how **rental yields** and **vacancy conditions** vary across Melbourne suburbs, and to assess their **sensitivity to changes in interest rates**. The objective is to provide a comparative, data-driven view of income potential and risk across suburbs under different macroeconomic scenarios.
