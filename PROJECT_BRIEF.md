@@ -4,7 +4,7 @@
 
 ---
 
-## 1. Background & Context
+## 1. Background 
 
 Residential property investment decisions in Melbourne are increasingly influenced by shifting macroeconomic conditions, particularly rising interest rates and changing rental market dynamics. While median rents and property prices are widely reported, these metrics in isolation provide limited insight into the relative attractiveness and risk profile of different suburbs.
 
