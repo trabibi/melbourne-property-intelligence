@@ -1,0 +1,323 @@
+region,suburb,median_rent,property_type
+Inner Melbourne,Albert Park-Middle Park-West St Kilda,638.0,2 Bed Flat
+Inner Melbourne,Armadale,625.0,2 Bed Flat
+Inner Melbourne,Carlton North,585.0,2 Bed Flat
+Inner Melbourne,Carlton-Parkville,665.0,2 Bed Flat
+Inner Melbourne,CBD-St Kilda Rd,730.0,2 Bed Flat
+Inner Melbourne,Collingwood-Abbotsford,690.0,2 Bed Flat
+Inner Melbourne,Docklands,750.0,2 Bed Flat
+Inner Melbourne,East Melbourne,668.0,2 Bed Flat
+Inner Melbourne,East St Kilda,575.0,2 Bed Flat
+Inner Melbourne,Elwood,600.0,2 Bed Flat
+Inner Melbourne,Fitzroy,740.0,2 Bed Flat
+Inner Melbourne,Fitzroy North-Clifton Hill,670.0,2 Bed Flat
+Inner Melbourne,Flemington-Kensington,550.0,2 Bed Flat
+Inner Melbourne,North Melbourne-West Melbourne,650.0,2 Bed Flat
+Inner Melbourne,Port Melbourne,725.0,2 Bed Flat
+Inner Melbourne,Prahran-Windsor,630.0,2 Bed Flat
+Inner Melbourne,Richmond-Burnley,695.0,2 Bed Flat
+Inner Melbourne,South Melbourne,680.0,2 Bed Flat
+Inner Melbourne,South Yarra,700.0,2 Bed Flat
+Inner Melbourne,Southbank,720.0,2 Bed Flat
+Inner Melbourne,St Kilda,625.0,2 Bed Flat
+Inner Melbourne,Toorak,650.0,2 Bed Flat
+Inner Melbourne,Total,700.0,2 Bed Flat
+Inner Eastern Melbourne,Balwyn,585.0,2 Bed Flat
+Inner Eastern Melbourne,Blackburn,540.0,2 Bed Flat
+Inner Eastern Melbourne,Box Hill,600.0,2 Bed Flat
+Inner Eastern Melbourne,Bulleen-Templestowe-Doncaster,580.0,2 Bed Flat
+Inner Eastern Melbourne,Burwood-Ashburton,570.0,2 Bed Flat
+Inner Eastern Melbourne,Camberwell-Glen Iris,590.0,2 Bed Flat
+Inner Eastern Melbourne,Canterbury-Surrey Hills-Mont Albert,560.0,2 Bed Flat
+Inner Eastern Melbourne,Chadstone-Oakleigh,575.0,2 Bed Flat
+Inner Eastern Melbourne,Clayton,570.0,2 Bed Flat
+Inner Eastern Melbourne,Doncaster East-Donvale,575.0,2 Bed Flat
+Inner Eastern Melbourne,East Hawthorn,600.0,2 Bed Flat
+Inner Eastern Melbourne,Glen Waverley-Mulgrave,640.0,2 Bed Flat
+Inner Eastern Melbourne,Hawthorn,588.0,2 Bed Flat
+Inner Eastern Melbourne,Kew,565.0,2 Bed Flat
+Inner Eastern Melbourne,Mount Waverley,521.0,2 Bed Flat
+Inner Eastern Melbourne,Nunawading-Mitcham,500.0,2 Bed Flat
+Inner Eastern Melbourne,Vermont-Forest Hill-Burwood East,560.0,2 Bed Flat
+Inner Eastern Melbourne,Total,580.0,2 Bed Flat
+Southern Melbourne,Aspendale-Chelsea-Carrum,530.0,2 Bed Flat
+Southern Melbourne,Bentleigh,580.0,2 Bed Flat
+Southern Melbourne,Brighton,650.0,2 Bed Flat
+Southern Melbourne,Brighton East,620.0,2 Bed Flat
+Southern Melbourne,Carnegie,595.0,2 Bed Flat
+Southern Melbourne,Caulfield,620.0,2 Bed Flat
+Southern Melbourne,Cheltenham,550.0,2 Bed Flat
+Southern Melbourne,Elsternwick,600.0,2 Bed Flat
+Southern Melbourne,Hampton-Beaumaris,630.0,2 Bed Flat
+Southern Melbourne,Malvern,600.0,2 Bed Flat
+Southern Melbourne,Malvern East,600.0,2 Bed Flat
+Southern Melbourne,Mentone-Parkdale-Mordialloc,545.0,2 Bed Flat
+Southern Melbourne,Murrumbeena-Hughesdale,550.0,2 Bed Flat
+Southern Melbourne,Total,580.0,2 Bed Flat
+Outer Western Melbourne,Altona,470.0,2 Bed Flat
+Outer Western Melbourne,Footscray,560.0,2 Bed Flat
+Outer Western Melbourne,Keilor East-Avondale Heights,520.0,2 Bed Flat
+Outer Western Melbourne,Melton,360.0,2 Bed Flat
+Outer Western Melbourne,Newport-Spotswood,588.0,2 Bed Flat
+Outer Western Melbourne,St Albans-Deer Park,415.0,2 Bed Flat
+Outer Western Melbourne,Sunshine,430.0,2 Bed Flat
+Outer Western Melbourne,Sydenham,450.0,2 Bed Flat
+Outer Western Melbourne,Werribee-Hoppers Crossing,410.0,2 Bed Flat
+Outer Western Melbourne,West Footscray,480.0,2 Bed Flat
+Outer Western Melbourne,Williamstown,540.0,2 Bed Flat
+Outer Western Melbourne,Yarraville-Seddon,520.0,2 Bed Flat
+Outer Western Melbourne,Total,480.0,2 Bed Flat
+North Western Melbourne,Broadmeadows-Roxburgh Park,470.0,2 Bed Flat
+North Western Melbourne,Brunswick,600.0,2 Bed Flat
+North Western Melbourne,Coburg-Pascoe Vale South,550.0,2 Bed Flat
+North Western Melbourne,Craigieburn,440.0,2 Bed Flat
+North Western Melbourne,East Brunswick,620.0,2 Bed Flat
+North Western Melbourne,Essendon,500.0,2 Bed Flat
+North Western Melbourne,Gladstone Park-Tullamarine,440.0,2 Bed Flat
+North Western Melbourne,Keilor,,2 Bed Flat
+North Western Melbourne,Moonee Ponds-Ascot Vale,545.0,2 Bed Flat
+North Western Melbourne,Oak Park-Glenroy-Fawkner,483.0,2 Bed Flat
+North Western Melbourne,Pascoe Vale-Coburg North,500.0,2 Bed Flat
+North Western Melbourne,Sunbury,420.0,2 Bed Flat
+North Western Melbourne,West Brunswick,500.0,2 Bed Flat
+North Western Melbourne,Total,520.0,2 Bed Flat
+North Eastern Melbourne,Bundoora-Greensborough-Hurstbridge,480.0,2 Bed Flat
+North Eastern Melbourne,Eltham-Research-Montmorency,500.0,2 Bed Flat
+North Eastern Melbourne,Fairfield-Alphington,570.0,2 Bed Flat
+North Eastern Melbourne,Heidelberg-Heidelberg West,550.0,2 Bed Flat
+North Eastern Melbourne,Ivanhoe-Ivanhoe East,585.0,2 Bed Flat
+North Eastern Melbourne,Mill Park-Epping,450.0,2 Bed Flat
+North Eastern Melbourne,Northcote,600.0,2 Bed Flat
+North Eastern Melbourne,Preston,550.0,2 Bed Flat
+North Eastern Melbourne,Reservoir,500.0,2 Bed Flat
+North Eastern Melbourne,Thomastown-Lalor,450.0,2 Bed Flat
+North Eastern Melbourne,Thornbury,520.0,2 Bed Flat
+North Eastern Melbourne,Whittlesea,430.0,2 Bed Flat
+North Eastern Melbourne,Total,520.0,2 Bed Flat
+Outer Eastern Melbourne,Bayswater,480.0,2 Bed Flat
+Outer Eastern Melbourne,Boronia,500.0,2 Bed Flat
+Outer Eastern Melbourne,Croydon-Lilydale,500.0,2 Bed Flat
+Outer Eastern Melbourne,Ferntree Gully,500.0,2 Bed Flat
+Outer Eastern Melbourne,Ringwood,515.0,2 Bed Flat
+Outer Eastern Melbourne,Rowville,525.0,2 Bed Flat
+Outer Eastern Melbourne,Wantirna-Scoresby,515.0,2 Bed Flat
+Outer Eastern Melbourne,Yarra Ranges,460.0,2 Bed Flat
+Outer Eastern Melbourne,Total,500.0,2 Bed Flat
+South Eastern Melbourne,Berwick,490.0,2 Bed Flat
+South Eastern Melbourne,Cranbourne,460.0,2 Bed Flat
+South Eastern Melbourne,Dandenong,450.0,2 Bed Flat
+South Eastern Melbourne,Dandenong North-Endeavour Hills,465.0,2 Bed Flat
+South Eastern Melbourne,Narre Warren-Hampton Park,470.0,2 Bed Flat
+South Eastern Melbourne,Noble Park,490.0,2 Bed Flat
+South Eastern Melbourne,Pakenham,450.0,2 Bed Flat
+South Eastern Melbourne,Springvale,505.0,2 Bed Flat
+South Eastern Melbourne,Total,470.0,2 Bed Flat
+Mornington Peninsula,Dromana-Portsea,470.0,2 Bed Flat
+Mornington Peninsula,Frankston,465.0,2 Bed Flat
+Mornington Peninsula,Hastings-Flinders,470.0,2 Bed Flat
+Mornington Peninsula,Mt Eliza-Mornington-Mt Martha,535.0,2 Bed Flat
+Mornington Peninsula,Seaford-Carrum Downs,470.0,2 Bed Flat
+Mornington Peninsula,Total,480.0,2 Bed Flat
+Geelong,Belmont-Grovedale,430.0,2 Bed Flat
+Geelong,Corio,380.0,2 Bed Flat
+Geelong,Geelong-Newcomb,470.0,2 Bed Flat
+Geelong,Herne Hill-Geelong West,400.0,2 Bed Flat
+Geelong,Lara,410.0,2 Bed Flat
+Geelong,Newtown,430.0,2 Bed Flat
+Geelong,North Geelong,420.0,2 Bed Flat
+Geelong,Total,425.0,2 Bed Flat
+Ballarat,Ballarat,350.0,2 Bed Flat
+Ballarat,Mount Clear-Buninyong,350.0,2 Bed Flat
+Ballarat,Sebastopol-Delacombe,350.0,2 Bed Flat
+Ballarat,Wendouree-Alfredton,350.0,2 Bed Flat
+Ballarat,Total,350.0,2 Bed Flat
+Bendigo,Bendigo,400.0,2 Bed Flat
+Bendigo,Flora Hill-Bendigo East,373.0,2 Bed Flat
+Bendigo,Golden Square-Kangaroo Flat,380.0,2 Bed Flat
+Bendigo,North Bendigo,375.0,2 Bed Flat
+Bendigo,Total,380.0,2 Bed Flat
+Other Regional Centres,Bairnsdale,370.0,2 Bed Flat
+Other Regional Centres,Benalla,370.0,2 Bed Flat
+Other Regional Centres,Castlemaine,390.0,2 Bed Flat
+Other Regional Centres,Echuca,410.0,2 Bed Flat
+Other Regional Centres,Hamilton,300.0,2 Bed Flat
+Other Regional Centres,Horsham,305.0,2 Bed Flat
+Other Regional Centres,Mildura,350.0,2 Bed Flat
+Other Regional Centres,Moe-Newborough,305.0,2 Bed Flat
+Other Regional Centres,Morwell,310.0,2 Bed Flat
+Other Regional Centres,Ocean Grove-Barwon Heads,463.0,2 Bed Flat
+Other Regional Centres,Portland,350.0,2 Bed Flat
+Other Regional Centres,Sale-Maffra,360.0,2 Bed Flat
+Other Regional Centres,Seymour,350.0,2 Bed Flat
+Other Regional Centres,Shepparton,375.0,2 Bed Flat
+Other Regional Centres,Swan Hill,350.0,2 Bed Flat
+Other Regional Centres,Torquay,500.0,2 Bed Flat
+Other Regional Centres,Traralgon,360.0,2 Bed Flat
+Other Regional Centres,Wangaratta,350.0,2 Bed Flat
+Other Regional Centres,Warragul,400.0,2 Bed Flat
+Other Regional Centres,Warrnambool,410.0,2 Bed Flat
+Other Regional Centres,Wodonga,370.0,2 Bed Flat
+Other Regional Centres,Total,360.0,2 Bed Flat
+Other Regional Centres,,,2 Bed Flat
+Other Regional Centres,,,2 Bed Flat
+Inner Melbourne,Albert Park-Middle Park-West St Kilda,1110.0,3 Bed House
+Inner Melbourne,Armadale,1100.0,3 Bed House
+Inner Melbourne,Carlton North,930.0,3 Bed House
+Inner Melbourne,Carlton-Parkville,900.0,3 Bed House
+Inner Melbourne,CBD-St Kilda Rd,,3 Bed House
+Inner Melbourne,Collingwood-Abbotsford,950.0,3 Bed House
+Inner Melbourne,Docklands,,3 Bed House
+Inner Melbourne,East Melbourne,1200.0,3 Bed House
+Inner Melbourne,East St Kilda,945.0,3 Bed House
+Inner Melbourne,Elwood,1000.0,3 Bed House
+Inner Melbourne,Fitzroy,1100.0,3 Bed House
+Inner Melbourne,Fitzroy North-Clifton Hill,980.0,3 Bed House
+Inner Melbourne,Flemington-Kensington,750.0,3 Bed House
+Inner Melbourne,North Melbourne-West Melbourne,850.0,3 Bed House
+Inner Melbourne,Port Melbourne,975.0,3 Bed House
+Inner Melbourne,Prahran-Windsor,950.0,3 Bed House
+Inner Melbourne,Richmond-Burnley,980.0,3 Bed House
+Inner Melbourne,South Melbourne,950.0,3 Bed House
+Inner Melbourne,South Yarra,1100.0,3 Bed House
+Inner Melbourne,Southbank,,3 Bed House
+Inner Melbourne,St Kilda,950.0,3 Bed House
+Inner Melbourne,Toorak,1250.0,3 Bed House
+Inner Melbourne,Total,950.0,3 Bed House
+Inner Eastern Melbourne,Balwyn,725.0,3 Bed House
+Inner Eastern Melbourne,Blackburn,600.0,3 Bed House
+Inner Eastern Melbourne,Box Hill,650.0,3 Bed House
+Inner Eastern Melbourne,Bulleen-Templestowe-Doncaster,650.0,3 Bed House
+Inner Eastern Melbourne,Burwood-Ashburton,650.0,3 Bed House
+Inner Eastern Melbourne,Camberwell-Glen Iris,843.0,3 Bed House
+Inner Eastern Melbourne,Canterbury-Surrey Hills-Mont Albert,800.0,3 Bed House
+Inner Eastern Melbourne,Chadstone-Oakleigh,630.0,3 Bed House
+Inner Eastern Melbourne,Clayton,600.0,3 Bed House
+Inner Eastern Melbourne,Doncaster East-Donvale,670.0,3 Bed House
+Inner Eastern Melbourne,East Hawthorn,860.0,3 Bed House
+Inner Eastern Melbourne,Glen Waverley-Mulgrave,640.0,3 Bed House
+Inner Eastern Melbourne,Hawthorn,925.0,3 Bed House
+Inner Eastern Melbourne,Kew,845.0,3 Bed House
+Inner Eastern Melbourne,Mount Waverley,660.0,3 Bed House
+Inner Eastern Melbourne,Nunawading-Mitcham,600.0,3 Bed House
+Inner Eastern Melbourne,Vermont-Forest Hill-Burwood East,620.0,3 Bed House
+Inner Eastern Melbourne,Total,650.0,3 Bed House
+Southern Melbourne,Aspendale-Chelsea-Carrum,680.0,3 Bed House
+Southern Melbourne,Bentleigh,725.0,3 Bed House
+Southern Melbourne,Brighton,1150.0,3 Bed House
+Southern Melbourne,Brighton East,905.0,3 Bed House
+Southern Melbourne,Carnegie,730.0,3 Bed House
+Southern Melbourne,Caulfield,850.0,3 Bed House
+Southern Melbourne,Cheltenham,700.0,3 Bed House
+Southern Melbourne,Elsternwick,900.0,3 Bed House
+Southern Melbourne,Hampton-Beaumaris,880.0,3 Bed House
+Southern Melbourne,Malvern,1050.0,3 Bed House
+Southern Melbourne,Malvern East,750.0,3 Bed House
+Southern Melbourne,Mentone-Parkdale-Mordialloc,740.0,3 Bed House
+Southern Melbourne,Murrumbeena-Hughesdale,730.0,3 Bed House
+Southern Melbourne,Total,750.0,3 Bed House
+Outer Western Melbourne,Altona,530.0,3 Bed House
+Outer Western Melbourne,Footscray,650.0,3 Bed House
+Outer Western Melbourne,Keilor East-Avondale Heights,570.0,3 Bed House
+Outer Western Melbourne,Melton,420.0,3 Bed House
+Outer Western Melbourne,Newport-Spotswood,700.0,3 Bed House
+Outer Western Melbourne,St Albans-Deer Park,470.0,3 Bed House
+Outer Western Melbourne,Sunshine,495.0,3 Bed House
+Outer Western Melbourne,Sydenham,480.0,3 Bed House
+Outer Western Melbourne,Werribee-Hoppers Crossing,470.0,3 Bed House
+Outer Western Melbourne,West Footscray,600.0,3 Bed House
+Outer Western Melbourne,Williamstown,793.0,3 Bed House
+Outer Western Melbourne,Yarraville-Seddon,700.0,3 Bed House
+Outer Western Melbourne,Total,480.0,3 Bed House
+North Western Melbourne,Broadmeadows-Roxburgh Park,500.0,3 Bed House
+North Western Melbourne,Brunswick,850.0,3 Bed House
+North Western Melbourne,Coburg-Pascoe Vale South,700.0,3 Bed House
+North Western Melbourne,Craigieburn,500.0,3 Bed House
+North Western Melbourne,East Brunswick,878.0,3 Bed House
+North Western Melbourne,Essendon,650.0,3 Bed House
+North Western Melbourne,Gladstone Park-Tullamarine,520.0,3 Bed House
+North Western Melbourne,Keilor,,3 Bed House
+North Western Melbourne,Moonee Ponds-Ascot Vale,725.0,3 Bed House
+North Western Melbourne,Oak Park-Glenroy-Fawkner,550.0,3 Bed House
+North Western Melbourne,Pascoe Vale-Coburg North,620.0,3 Bed House
+North Western Melbourne,Sunbury,490.0,3 Bed House
+North Western Melbourne,West Brunswick,750.0,3 Bed House
+North Western Melbourne,Total,530.0,3 Bed House
+North Eastern Melbourne,Bundoora-Greensborough-Hurstbridge,570.0,3 Bed House
+North Eastern Melbourne,Eltham-Research-Montmorency,650.0,3 Bed House
+North Eastern Melbourne,Fairfield-Alphington,850.0,3 Bed House
+North Eastern Melbourne,Heidelberg-Heidelberg West,600.0,3 Bed House
+North Eastern Melbourne,Ivanhoe-Ivanhoe East,750.0,3 Bed House
+North Eastern Melbourne,Mill Park-Epping,530.0,3 Bed House
+North Eastern Melbourne,Northcote,850.0,3 Bed House
+North Eastern Melbourne,Preston,650.0,3 Bed House
+North Eastern Melbourne,Reservoir,560.0,3 Bed House
+North Eastern Melbourne,Thomastown-Lalor,510.0,3 Bed House
+North Eastern Melbourne,Thornbury,780.0,3 Bed House
+North Eastern Melbourne,Whittlesea,510.0,3 Bed House
+North Eastern Melbourne,Total,550.0,3 Bed House
+Outer Eastern Melbourne,Bayswater,580.0,3 Bed House
+Outer Eastern Melbourne,Boronia,580.0,3 Bed House
+Outer Eastern Melbourne,Croydon-Lilydale,600.0,3 Bed House
+Outer Eastern Melbourne,Ferntree Gully,600.0,3 Bed House
+Outer Eastern Melbourne,Ringwood,600.0,3 Bed House
+Outer Eastern Melbourne,Rowville,600.0,3 Bed House
+Outer Eastern Melbourne,Wantirna-Scoresby,590.0,3 Bed House
+Outer Eastern Melbourne,Yarra Ranges,600.0,3 Bed House
+Outer Eastern Melbourne,Total,600.0,3 Bed House
+South Eastern Melbourne,Berwick,560.0,3 Bed House
+South Eastern Melbourne,Cranbourne,550.0,3 Bed House
+South Eastern Melbourne,Dandenong,560.0,3 Bed House
+South Eastern Melbourne,Dandenong North-Endeavour Hills,530.0,3 Bed House
+South Eastern Melbourne,Narre Warren-Hampton Park,550.0,3 Bed House
+South Eastern Melbourne,Noble Park,550.0,3 Bed House
+South Eastern Melbourne,Pakenham,525.0,3 Bed House
+South Eastern Melbourne,Springvale,560.0,3 Bed House
+South Eastern Melbourne,Total,550.0,3 Bed House
+Mornington Peninsula,Dromana-Portsea,560.0,3 Bed House
+Mornington Peninsula,Frankston,565.0,3 Bed House
+Mornington Peninsula,Hastings-Flinders,580.0,3 Bed House
+Mornington Peninsula,Mt Eliza-Mornington-Mt Martha,675.0,3 Bed House
+Mornington Peninsula,Seaford-Carrum Downs,550.0,3 Bed House
+Mornington Peninsula,Total,570.0,3 Bed House
+Geelong,Belmont-Grovedale,490.0,3 Bed House
+Geelong,Corio,410.0,3 Bed House
+Geelong,Geelong-Newcomb,470.0,3 Bed House
+Geelong,Herne Hill-Geelong West,520.0,3 Bed House
+Geelong,Lara,495.0,3 Bed House
+Geelong,Newtown,580.0,3 Bed House
+Geelong,North Geelong,485.0,3 Bed House
+Geelong,Total,480.0,3 Bed House
+Ballarat,Ballarat,403.0,3 Bed House
+Ballarat,Mount Clear-Buninyong,415.0,3 Bed House
+Ballarat,Sebastopol-Delacombe,400.0,3 Bed House
+Ballarat,Wendouree-Alfredton,410.0,3 Bed House
+Ballarat,Total,400.0,3 Bed House
+Bendigo,Bendigo,470.0,3 Bed House
+Bendigo,Flora Hill-Bendigo East,470.0,3 Bed House
+Bendigo,Golden Square-Kangaroo Flat,470.0,3 Bed House
+Bendigo,North Bendigo,470.0,3 Bed House
+Bendigo,Total,470.0,3 Bed House
+Other Regional Centres,Bairnsdale,450.0,3 Bed House
+Other Regional Centres,Benalla,450.0,3 Bed House
+Other Regional Centres,Castlemaine,493.0,3 Bed House
+Other Regional Centres,Echuca,500.0,3 Bed House
+Other Regional Centres,Hamilton,380.0,3 Bed House
+Other Regional Centres,Horsham,410.0,3 Bed House
+Other Regional Centres,Mildura,475.0,3 Bed House
+Other Regional Centres,Moe-Newborough,410.0,3 Bed House
+Other Regional Centres,Morwell,400.0,3 Bed House
+Other Regional Centres,Ocean Grove-Barwon Heads,550.0,3 Bed House
+Other Regional Centres,Portland,425.0,3 Bed House
+Other Regional Centres,Sale-Maffra,450.0,3 Bed House
+Other Regional Centres,Seymour,420.0,3 Bed House
+Other Regional Centres,Shepparton,470.0,3 Bed House
+Other Regional Centres,Swan Hill,450.0,3 Bed House
+Other Regional Centres,Torquay,650.0,3 Bed House
+Other Regional Centres,Traralgon,450.0,3 Bed House
+Other Regional Centres,Wangaratta,460.0,3 Bed House
+Other Regional Centres,Warragul,480.0,3 Bed House
+Other Regional Centres,Warrnambool,550.0,3 Bed House
+Other Regional Centres,Wodonga,500.0,3 Bed House
+Other Regional Centres,Total,465.0,3 Bed House
+Other Regional Centres,,,3 Bed House
+Other Regional Centres,,,3 Bed House
