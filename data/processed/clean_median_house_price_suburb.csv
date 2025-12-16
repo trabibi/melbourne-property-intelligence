@@ -1,0 +1,753 @@
+suburb,median_price,sales_count
+Nan,2025.0,2025
+Abbotsford,1310000.0,9
+Aberfeldie,2045000.0,11
+Aintree,720000.0,39
+Aireys Inlet,1312500.0,4
+Airport West,1000000.0,29
+Albanvale,625000.0,23
+Albert Park,2046000.0,16
+Albion,738800.0,14
+Alexandra,680000.0,5
+Alfredton,610000.0,83
+Allansford,837500.0,4
+Alphington,1965000.0,14
+Altona,1200000.0,25
+Altona East,950000.0,3
+Altona Meadows,738500.0,20
+Altona North,1039500.0,44
+Anglesea,1375000.0,18
+Apollo Bay,775000.0,6
+Ararat,377000.0,35
+Ardeer,695000.0,12
+Armadale,2588000.0,20
+Armstrong Creek,648000.0,129
+Ascot (Greater Bendigo),622500.0,14
+Ascot Vale,1357500.0,45
+Ashburton,1851000.0,30
+Ashwood,1510000.0,17
+Aspendale,1339300.0,14
+Aspendale Gardens,1225000.0,14
+Attwood,700000.0,7
+Avenel,569000.0,2
+Avoca,380000.0,9
+Avondale Heights,932500.0,34
+Bacchus Marsh,620000.0,40
+Badger Creek,697500.0,6
+Bairnsdale,450000.0,35
+Balaclava,1450000.0,5
+Balcombe,1580000.0,34
+Ballan,622500.0,12
+Ballarat Central,635000.0,34
+Ballarat East,500000.0,29
+Ballarat North,515000.0,28
+Balnarring,1320000.0,6
+Balnarring Beach,1187500.0,4
+Balwyn,3100000.0,31
+Balwyn North,2325000.0,56
+Bandiana,629000.0,3
+Bannockburn,699000.0,17
+Baranduda,615000.0,10
+Barwon Heads,1465000.0,16
+Baxter,752500.0,12
+Bayswater,845500.0,26
+Bayswater North,910000.0,21
+Beaconsfield,815000.0,25
+Beaufort,395000.0,9
+Beaumaris,1943000.0,35
+Beeac,460000.0,2
+Beechworth,790000.0,19
+Belgrave,860000.0,11
+Belgrave Heights,1053100.0,4
+Bell Park,645000.0,25
+Bell Post Hill,650000.0,25
+Bellfield (Banyule),1090000.0,7
+Belmont,670000.0,62
+Benalla,465000.0,55
+Bendigo,597500.0,34
+Bentleigh,1687500.0,36
+Bentleigh East,1440500.0,72
+Berwick,900000.0,181
+Beveridge,615000.0,60
+Birchip,282500.0,2
+Birregurra,605000.0,5
+Bittern,880000.0,13
+Black Hill,527500.0,12
+Black Rock,2590000.0,11
+Blackburn,1638000.0,28
+Blackburn North,1399000.0,21
+Blackburn South,1422300.0,18
+Blairgowrie,1300000.0,33
+Blind Bight,830000.0,5
+Bonbeach,1035000.0,15
+Bonnie Brook,647900.0,27
+Bonnie Doon,718800.0,2
+Bonshaw,545000.0,11
+Boort,270000.0,3
+Boronia,856000.0,62
+Botanic Ridge,910000.0,49
+Box Hill,1725000.0,7
+Box Hill North,1342000.0,23
+Box Hill South,1350000.0,19
+Braybrook,770000.0,19
+Breakwater,500000.0,5
+Briar Hill,1190500.0,13
+Bright,850000.0,9
+Brighton,3341800.0,58
+Brighton East,2337500.0,42
+Broadford,559300.0,16
+Broadmeadows,615000.0,26
+Brookfield,565000.0,59
+Brooklyn,857500.0,6
+Brown Hill,610000.0,26
+Brunswick,1305000.0,55
+Brunswick East,1650000.0,23
+Brunswick West,1282500.0,27
+Bulleen,1350000.0,27
+Bundalong,750000.0,0
+Bundoora,882000.0,69
+Buninyong,725000.0,17
+Bunyip,758000.0,4
+Burnley,1105000.0,4
+Burnside,860000.0,13
+Burnside Heights,730000.0,16
+Burwood,1594400.0,24
+Burwood East,1318000.0,30
+Cairnlea,897000.0,18
+California Gully,450000.0,17
+Camberwell,2688900.0,59
+Campbellfield,643000.0,15
+Campbells Creek,780000.0,7
+Camperdown,461300.0,12
+Canadian,550000.0,26
+Canterbury,4167500.0,22
+Cape Paterson,692500.0,14
+Capel Sound,705000.0,23
+Cardigan Village,410000.0,5
+Carisbrook,432500.0,2
+Carlton,1360000.0,18
+Carlton North,1730000.0,20
+Carnegie,1725000.0,21
+Caroline Springs,750000.0,59
+Carrum,881000.0,5
+Carrum Downs,745000.0,97
+Casterton,375000.0,5
+Castlemaine,782500.0,27
+Caulfield,2080000.0,5
+Caulfield East,1819000.0,2
+Caulfield North,2450000.0,19
+Caulfield South,1755000.0,19
+Chadstone,1200000.0,11
+Charlemont,600000.0,31
+Charlton,265000.0,5
+Chelsea,980000.0,13
+Chelsea Heights,970000.0,17
+Cheltenham,1256000.0,37
+Cheltenham East,1220000.0,19
+Cheltenham North,1100000.0,11
+Chewton,600000.0,5
+Chiltern,465000.0,5
+Chirnside Park,900000.0,46
+Chum Creek,761000.0,0
+Churchill,379000.0,15
+Clarinda,1107000.0,17
+Clayton,1200000.0,13
+Clayton North,1268800.0,4
+Clayton South,986000.0,8
+Clematis,955000.0,1
+Clifton Hill,1775000.0,17
+Clifton Springs,640500.0,42
+Clunes,440000.0,3
+Clyde,689500.0,131
+Clyde North,745000.0,219
+Cobblebank,618800.0,28
+Cobden,367500.0,7
+Cobram,432500.0,30
+Coburg,1250000.0,55
+Coburg East,1015000.0,12
+Coburg North,975000.0,11
+Cockatoo,725000.0,20
+Cohuna,362500.0,12
+Colac,460000.0,31
+Coldstream,800000.0,5
+Coleraine,245000.0,7
+Collingwood,1200000.0,9
+Connewarre,1925000.0,5
+Coolaroo,601500.0,10
+Coonans Hill,1545000.0,2
+Corinella,635000.0,9
+Corio,480000.0,81
+Coronet Bay,535000.0,18
+Corryong,440000.0,7
+Cowes,775000.0,13
+Cowes West,665000.0,43
+Craigieburn,679000.0,194
+Cranbourne,660000.0,109
+Cranbourne East,722500.0,92
+Cranbourne North,732500.0,70
+Cranbourne South,700000.0,17
+Cranbourne West,700000.0,87
+Cremorne,1310000.0,7
+Creswick,575000.0,19
+Crib Point,710000.0,7
+Croydon,900000.0,62
+Croydon Hills,1128100.0,14
+Croydon North,968000.0,21
+Croydon South,917000.0,13
+Curlewis,640800.0,22
+Dallas,525000.0,15
+Dalyston,553500.0,8
+Dandenong,725500.0,50
+Dandenong North,750000.0,69
+Darley,645000.0,50
+Daylesford,952500.0,16
+Deanside,669500.0,46
+Deepdene,3481300.0,4
+Deer Park,671000.0,48
+Delacombe,513500.0,44
+Delahey,671000.0,16
+Dennington,617300.0,8
+Derrimut,805000.0,10
+Diamond Creek,1025000.0,33
+Diggers Rest,610000.0,30
+Dimboola,250000.0,7
+Dingley Village,1055000.0,27
+Donald,260000.0,5
+Doncaster,1540000.0,55
+Doncaster East,1486000.0,53
+Donnybrook,651300.0,110
+Donvale,1460000.0,19
+Doreen,770500.0,114
+Doveton,610000.0,37
+Dromana,962500.0,54
+Drouin,622500.0,90
+Drysdale,620000.0,15
+Eagle Point,540000.0,5
+Eaglehawk,527500.0,31
+Eaglemont,2805000.0,6
+East Bairnsdale,335000.0,8
+East Bendigo,502500.0,12
+East Geelong,746300.0,14
+East Melbourne,1696000.0,2
+East Warburton,600000.0,3
+Eastwood,632500.0,14
+Echuca,579000.0,70
+Edenhope,307500.0,4
+Edithvale,1379900.0,10
+Eildon,490000.0,3
+Elliminyt,612500.0,7
+Elmore,455000.0,5
+Elsternwick,1950000.0,12
+Eltham,1200000.0,45
+Eltham North,1216000.0,16
+Elwood,2542500.0,20
+Emerald,928500.0,18
+Endeavour Hills,802500.0,56
+Epping,652000.0,87
+Epsom,585000.0,28
+Essendon,1500000.0,47
+Essendon North,1180000.0,5
+Essendon West,1525000.0,5
+Eumemmerring,690000.0,3
+Eureka,570000.0,5
+Euroa,480000.0,13
+Eynesbury,750000.0,19
+Fairfield,1647000.0,17
+Fairhaven,1906500.0,2
+Fawkner,805000.0,37
+Ferntree Gully,902000.0,58
+Ferny Creek,1012000.0,5
+Fingal,1242500.0,2
+Fitzroy,1600000.0,24
+Fitzroy North,1415000.0,35
+Fiveways,875000.0,3
+Flemington,1140300.0,18
+Flinders,3250000.0,2
+Flora Hill,520500.0,20
+Footscray,955000.0,28
+Forest Hill,1220000.0,23
+Foster,485000.0,9
+Frankston,750000.0,146
+Frankston North,625000.0,28
+Frankston South,1200000.0,67
+Fraser Rise,694000.0,98
+Fyansford,965000.0,7
+Garden City,2100000.0,7
+Gardenvale,2221000.0,5
+Garfield,862500.0,2
+Geelong,915000.0,14
+Geelong West,915000.0,16
+Gembrook,1012300.0,4
+Gisborne,1042500.0,36
+Gladstone Park,805000.0,23
+Glen Huntly,1907000.0,3
+Glen Iris,2177500.0,48
+Glen Waverley,1632900.0,86
+Glenrowan,580000.0,6
+Glenroy,860000.0,57
+Golden Beach,335000.0,6
+Golden Point (Ballarat),476000.0,21
+Golden Square,525000.0,47
+Gordon,627500.0,4
+Gowanbrae,992500.0,6
+Grantville,588000.0,9
+Green Lake,556000.0,4
+Greensborough,1005200.0,52
+Greenvale,867500.0,82
+Grovedale,650000.0,62
+Hadfield,901000.0,29
+Hallam,745000.0,27
+Halls Gap,582500.0,0
+Hamilton,415000.0,38
+Hamlyn Heights,750000.0,35
+Hampton,2305000.0,46
+Hampton East,1459000.0,11
+Hampton Park,660000.0,87
+Harkness,563000.0,57
+Hastings,672500.0,22
+Hastings West,652500.0,5
+Hawthorn,2440000.0,26
+Hawthorn East,2558000.0,38
+Healesville,805000.0,18
+Heathcote,468000.0,12
+Heatherton,1050000.0,7
+Heathmont,1115000.0,22
+Heidelberg,1375000.0,14
+Heidelberg Heights,891500.0,16
+Heidelberg West,830000.0,11
+Hepburn,490000.0,1
+Hepburn Springs,825000.0,2
+Herne Hill,710000.0,16
+Heyfield,400000.0,16
+Heywood,322500.0,6
+Highett,1426000.0,30
+Highton,850000.0,61
+Hillside (Melton),825000.0,39
+Hopetoun,162500.0,2
+Hoppers Crossing,620000.0,140
+Horsham,413100.0,68
+Hughesdale,1440000.0,13
+Huntingdale,1260500.0,4
+Huntly,549000.0,24
+Hurstbridge,990000.0,7
+Indented Head,730000.0,10
+Inglewood,425000.0,3
+Inverloch,825000.0,49
+Invermay Park,605000.0,9
+Ironbark,475000.0,6
+Irymple,645000.0,20
+Ivanhoe,2115000.0,22
+Ivanhoe East,2355000.0,9
+Jacana,623500.0,12
+Jackass Flat,545000.0,7
+Jan Juc,1232500.0,14
+Jeeralang North,410000.0,3
+Jeparit,191500.0,2
+Junction Village,665000.0,7
+Junortoun,806000.0,13
+Kalimna,557500.0,2
+Kalkallo,630000.0,79
+Kallista,900000.0,7
+Kalorama,815000.0,2
+Kangaroo Flat,556300.0,72
+Kangaroo Ground South,1001000.0,5
+Kaniva,156000.0,3
+Kealba,707500.0,8
+Keilor,1262000.0,17
+Keilor Downs,815000.0,15
+Keilor East,930000.0,49
+Keilor Lodge,1007500.0,6
+Keilor Park,850000.0,5
+Kennington,582500.0,34
+Kensington,1074000.0,26
+Kerang,357000.0,14
+Kew,2745000.0,54
+Kew North,2150000.0,13
+Keysborough,933500.0,66
+Kialla,708000.0,30
+Killara (Wodonga),641500.0,11
+Kilmore,615000.0,52
+Kilsyth,790000.0,39
+Kilsyth South,1190000.0,9
+Kinglake,730000.0,10
+Kings Park,620000.0,26
+Kingsbury,791800.0,10
+Kingsville,1337500.0,14
+Knoxfield,1100000.0,17
+Koo Wee Rup,735000.0,21
+Koondrook,510000.0,3
+Koroit,625000.0,5
+Korumburra,565000.0,23
+Kurunjang,542000.0,49
+Kyabram,453500.0,28
+Kyneton,809500.0,16
+Lake Boga,310000.0,7
+Lake Gardens,701000.0,9
+Lake Tyers Beach,500000.0,7
+Lake Wendouree,725000.0,8
+Lakes Entrance,475000.0,22
+Lalor,717500.0,76
+Lancefield,650000.0,5
+Lang Lang,715000.0,19
+Langwarrin,840000.0,78
+Lara,655000.0,34
+Lara Lake,677000.0,56
+Launching Place,702500.0,8
+Laverton,600500.0,28
+Laverton South,710500.0,32
+Leneva,650000.0,9
+Leongatha,556500.0,36
+Leopold,651000.0,66
+Lilydale,870500.0,56
+Lismore,210000.0,1
+Loch Sport,408500.0,20
+Lockington,390000.0,5
+Long Gully,470500.0,21
+Longwarry,613800.0,14
+Lorne,2125000.0,4
+Lovely Banks,710000.0,5
+Lower Plenty,1600000.0,5
+Lucas,617500.0,34
+Lucknow,515000.0,6
+Lynbrook,840000.0,23
+Lyndhurst,940000.0,29
+Lysterfield,1460000.0,13
+Macarthur,310000.0,5
+Macedon,660000.0,3
+Macleod,1028500.0,24
+Maddingley,595000.0,23
+Maffra,495000.0,20
+Maiden Gully,780000.0,11
+Maidstone,847500.0,24
+Maldon,690000.0,9
+Mallacoota,400000.0,4
+Malmsbury,765000.0,2
+Malvern,3340000.0,20
+Malvern East,2000000.0,51
+Mambourin,609500.0,34
+Manifold Heights,923800.0,6
+Manor Lakes,650000.0,97
+Mansfield,750000.0,17
+Maribyrnong,1070000.0,17
+Marong,600000.0,7
+Marshall,662500.0,8
+Maryborough,378000.0,53
+Mccrae,1135000.0,18
+Mckenzie Hill,760000.0,2
+Mckinnon,1875000.0,8
+Meadow Heights,640000.0,31
+Melton,490000.0,53
+Melton South,545000.0,79
+Melton West,545000.0,39
+Mentone,1312500.0,30
+Merbein,356300.0,10
+Merinda Park,665500.0,8
+Mernda,730000.0,99
+Metung,665000.0,11
+Mickleham,682000.0,186
+Middle Park,2910000.0,9
+Mildura,485000.0,165
+Mill Park,812500.0,78
+Millgrove,607500.0,12
+Miners Rest,545000.0,18
+Minyip,160000.0,1
+Mirboo North,527500.0,4
+Mitcham,1180000.0,29
+Moe,345000.0,65
+Monbulk,715000.0,3
+Mont Albert,2561000.0,8
+Mont Albert North,1860000.0,11
+Montmorency,1165000.0,22
+Montrose,910000.0,17
+Moonee Ponds,1410000.0,35
+Moorabbin,1232500.0,12
+Mooroolbark,860000.0,77
+Mooroopna,465000.0,45
+Mordialloc,1390000.0,18
+Mornington,1026400.0,70
+Mortlake,385000.0,8
+Morwell,351000.0,96
+Mount Beauty,542500.0,2
+Mount Clear,585000.0,17
+Mount Dandenong,820000.0,7
+Mount Duneed,710000.0,61
+Mount Eliza,1605000.0,61
+Mount Evelyn,865000.0,28
+Mount Helen,580000.0,11
+Mount Martha,1485000.0,18
+Mount Pleasant,505000.0,8
+Mount Waverley,1595000.0,97
+Mulgrave,1150000.0,52
+Murrumbeena,1587000.0,12
+Murtoa,529000.0,1
+Myrtleford,520000.0,11
+Nagambie,628500.0,10
+Nar Nar Goon North,730000.0,2
+Narre Warren,755500.0,94
+Narre Warren North,1400000.0,7
+Narre Warren South,798400.0,92
+Nathalia,449000.0,6
+Neerim South,690000.0,5
+Nerrina,580000.0,3
+New Gisborne,776000.0,3
+Newborough,455000.0,39
+Newcomb,550000.0,24
+Newington,611000.0,11
+Newlands Arm,580000.0,5
+Newport,1310000.0,39
+Newtown (Greater Geelong),980000.0,30
+Nhill,270000.0,14
+Nichols Point,540000.0,3
+Niddrie,1260000.0,18
+Noble Park,777500.0,40
+Noble Park North,767500.0,18
+Norlane,445000.0,62
+North Bendigo,497500.0,23
+North Geelong,650000.0,17
+North Melbourne,1267000.0,25
+North Wonthaggi,512500.0,26
+Northcote,1720000.0,43
+Notting Hill,1228000.0,5
+Numurkah,420000.0,23
+Nunawading,1175000.0,25
+Nyah,315000.0,1
+Nyah West,277500.0,5
+Oak Park,1150000.0,12
+Oakleigh,1260000.0,19
+Oakleigh East,1226000.0,10
+Oakleigh South,1179000.0,16
+Ocean Grove,896000.0,82
+Officer,740000.0,112
+Officer South,915000.0,8
+Olinda,1000000.0,13
+Orbost,308000.0,8
+Ormond,1788000.0,13
+Osborne,1170000.0,25
+Ouyen,260000.0,5
+Pakenham,670000.0,247
+Paradise Beach,270000.0,1
+Park Orchards,2205000.0,1
+Parkdale,1460000.0,25
+Parkville,1635000.0,7
+Pascoe Vale,1170000.0,33
+Pascoe Vale South,1222500.0,23
+Patterson Gardens,1140000.0,6
+Patterson Lakes,1011500.0,10
+Paynesville,540000.0,27
+Pearcedale,820000.0,11
+Peterborough,820000.0,4
+Pioneer Bay,458000.0,6
+Plenty,1320000.0,1
+Point Cook,815000.0,180
+Point Lonsdale,1200000.0,21
+Porepunkah,1100000.0,5
+Port Fairy,835000.0,20
+Port Melbourne,1635000.0,36
+Portarlington,837500.0,26
+Portland,445000.0,57
+Portsea,4600000.0,9
+Prahran,1787500.0,34
+Preston,1172500.0,62
+Princes Hill,1425000.0,5
+Quarry Hill,541500.0,12
+Queenscliff,1800000.0,5
+Rainbow,300000.0,1
+Rawson,402500.0,4
+Raymond Island,437000.0,6
+Red Cliffs,420000.0,27
+Red Hill,1595000.0,5
+Redan,472500.0,13
+Research,1493500.0,4
+Reservoir,915000.0,94
+Rhyll,1002500.0,8
+Richmond,1400500.0,42
+Riddells Creek,805000.0,12
+Ringwood,1085500.0,25
+Ringwood East,1090000.0,21
+Ringwood North,1220000.0,43
+Rippleside,2032500.0,2
+Ripponlea,1815000.0,2
+Robinvale,477000.0,9
+Rochester,460000.0,10
+Rockbank,556000.0,35
+Romsey,766000.0,18
+Rosanna,1312500.0,18
+Rosebud,730000.0,60
+Rosebud South,1090000.0,19
+Rosedale,525000.0,7
+Rowville,1110000.0,68
+Roxburgh Park,685000.0,67
+Rushworth,300000.0,3
+Rutherglen,561500.0,6
+Rye,920000.0,81
+Safety Beach,1140000.0,17
+Sale,510000.0,50
+San Remo,947500.0,12
+Sanctuary Lakes,795000.0,91
+Sandhurst,1100000.0,27
+Sandringham,2077500.0,18
+Sassafras,930000.0,7
+Scoresby,930000.0,9
+Sea Lake,328500.0,2
+Seabrook,765000.0,15
+Seaford,856000.0,66
+Seaholme,1110000.0,5
+Sebastopol,447500.0,76
+Seddon,1062500.0,20
+Selby,810000.0,5
+Seville,790000.0,7
+Seymour,443000.0,27
+Shepparton,470500.0,188
+Shepparton North,580000.0,7
+Shoreham,1925000.0,1
+Skye,787500.0,28
+Smythes Creek,506500.0,14
+Smythesdale,470000.0,5
+Soldiers Hill,520000.0,13
+Somers,1200000.0,7
+Somerville,890000.0,41
+Sorrento,1780000.0,33
+South Dudley,467500.0,5
+South Geelong,635000.0,3
+South Kingsville,1050000.0,0
+South Melbourne,1590000.0,26
+South Morang,745000.0,65
+South Yarra,1590000.0,23
+Spotswood,1415000.0,9
+Spring Gully,583500.0,12
+Springvale,860000.0,29
+Springvale South,785000.0,19
+St Albans,650000.0,85
+St Albans Park,608800.0,12
+St Andrews Beach,1220000.0,4
+St Arnaud,300000.0,11
+St Helena,1125000.0,5
+St Kilda,1423000.0,6
+St Kilda East,1580000.0,17
+St Kilda West,2760000.0,3
+St Leonards,700000.0,37
+Stanhope,342500.0,3
+Stawell,337500.0,26
+Stratford,497500.0,14
+Strathdale,685000.0,27
+Strathfieldsaye,702000.0,23
+Strathmerton,162000.0,1
+Strathmore,1485500.0,26
+Strathmore Heights,1075000.0,2
+Strathtulloh,625000.0,45
+Studfield,1077500.0,10
+Sunbury,677500.0,208
+Sunderland Bay,617500.0,4
+Sunnycliffs,341500.0,6
+Sunset Strip,530000.0,7
+Sunshine,750000.0,33
+Sunshine North,720000.0,29
+Sunshine West,710500.0,54
+Surf Beach,695000.0,4
+Surrey Hills,2513000.0,32
+Swan Hill,545000.0,35
+Sydenham,690000.0,24
+Syndal,1832000.0,11
+Tallangatta,402000.0,3
+Tangambalanga,700000.0,5
+Tarneit,650000.0,383
+Tatura,506000.0,14
+Tawonga South,602000.0,5
+Taylors Hill,948500.0,14
+Taylors Lakes,982500.0,32
+Tecoma,860000.0,8
+Templestowe,1604000.0,38
+Templestowe Lower,1344000.0,41
+Terang,515000.0,11
+The Basin,865000.0,13
+Thomastown,730000.0,59
+Thomson (Greater Geelong),497000.0,9
+Thornbury,1397500.0,24
+Thornhill Park,575000.0,42
+Timboon,447000.0,7
+Tongala,450000.0,0
+Toongabbie,430000.0,1
+Tooradin,731000.0,6
+Toorak,3425000.0,9
+Tootgarook,787500.0,24
+Torquay,1200000.0,89
+Trafalgar,541000.0,16
+Traralgon,535000.0,136
+Traralgon East,860000.0,5
+Trentham,935000.0,5
+Truganina,680000.0,179
+Tullamarine,750000.0,15
+Tungamah,273000.0,0
+Tyabb,831000.0,5
+Underbool,89000.0,1
+Upper Ferntree Gully,920000.0,7
+Upwey,882500.0,22
+Ventnor,705000.0,9
+Venus Bay,496500.0,24
+Vermont,1199000.0,23
+Vermont South,1488000.0,33
+Viewbank,1136000.0,20
+Violet Town,290000.0,3
+Wahgunyah,490000.0,4
+Wallan,640000.0,60
+Wallan East,580000.0,25
+Wandana Heights,920000.0,9
+Wandin North,1026000.0,7
+Wangaratta,525000.0,89
+Wantirna,1104000.0,28
+Wantirna South,1280000.0,37
+Warburton,633300.0,8
+Warracknabeal,220000.0,15
+Warragul,620000.0,102
+Warrandyte,1120000.0,18
+Warranwood,1305000.0,17
+Warrnambool,600000.0,122
+Waterways,1489000.0,6
+Watsonia,880500.0,10
+Watsonia North,862500.0,6
+Wattle Glen,935000.0,5
+Waurn Ponds,738000.0,15
+Wedderburn,320000.0,1
+Weir Views,561000.0,46
+Wendouree,460000.0,58
+Wendouree West,327500.0,14
+Werribee,601000.0,235
+Werribee South,657500.0,10
+West Footscray,847500.0,24
+West Melbourne,1117500.0,4
+West Wodonga,550000.0,57
+Westall,902000.0,11
+Westgarth,1602500.0,6
+Westmeadows,700000.0,12
+Wheelers Hill,1478900.0,54
+White Hills,627500.0,18
+Whittington,547000.0,17
+Whittlesea,755000.0,18
+Williams Landing,850000.0,44
+Williamstown,1440000.0,29
+Williamstown North,1192500.0,4
+Wimbledon Heights,594000.0,4
+Winchelsea,662500.0,4
+Windsor,1391500.0,12
+Winter Valley,535000.0,49
+Wodonga,615000.0,108
+Wollert,700000.0,189
+Wonga Park,1302500.0,8
+Wonthaggi,590000.0,31
+Woodend,935000.0,23
+Woodstock,662500.0,7
+Woolamai Waters,640000.0,11
+Woori Yallock,715000.0,10
+Wy Yung,515000.0,7
+Wyndham Vale,574500.0,128
+Yackandandah,614000.0,3
+Yallambie,997500.0,2
+Yallourn North,297500.0,8
+Yarra Glen,940000.0,9
+Yarra Junction,657500.0,8
+Yarragon,560000.0,13
+Yarram,382500.0,6
+Yarraville,1090000.0,50
+Yarrawonga,550000.0,45
+Yea,690000.0,5
+Yinnar,422000.0,7
